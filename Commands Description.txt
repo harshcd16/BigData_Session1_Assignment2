@@ -1,0 +1,17 @@
+1. pwd -- To get the present working directory
+2. vi -- To create and edit a new file. If no file is present the command creates a new file else modifies the existing one.
+3. touch -- Used to create a new file
+4. mkdir -- Create a directory
+5. rm -- remove a file
+6. ls -- list the contents of a directory
+7. echo -- Used to reflect the value of a variable.
+8. cat -- Used to create a file and dislay the contents of a file.
+9. who -- Prints information about all users who are currently logged in.
+10.cd -- Open or close a current directory.
+11.date -- Prints the current date.
+12.cal -- Prints system calendar
+13.mv -- Move file from one directory to another
+14.cp -- Copy the contents of one file to another
+15.which -- command to locate executables in the system. 
+It allows user to pass several command names as arguments to get their paths in the system. 
+“which” commands searches the path of executable in system paths set in $PATH environment variable.
